@@ -1,0 +1,12 @@
+[submodule "laboratory_1"]
+	path = laboratory_1
+	url = https://github.com/Annarepk/Sem2_lab1.git
+[submodule "laboratory_2"]
+	path = laboratory_2
+	url = https://github.com/Annarepk/Sem2_lab2.git
+[submodule "laboratory_3"]
+	path = laboratory_3
+	url = https://github.com/Annarepk/Sem2_lab3.git
+[submodule "laboratory_4"]
+	path = laboratory_4
+	url = https://github.com/Annarepk/Sem2_lab4.git
