@@ -1,0 +1,4 @@
+add_subdirectory(laboratory_1)
+add_subdirectory(laboratory_2)
+add_subdirectory(laboratory_3)
+add_subdirectory(laboratory_4)
